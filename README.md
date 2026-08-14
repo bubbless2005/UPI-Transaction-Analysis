@@ -4,9 +4,7 @@ End-to-end fintech analytics project focused on identifying transaction failure 
 
 ## Business Problem
 
-A digital payments company observed a decline in transaction success rates across multiple merchant categories. Increasing transaction failures were negatively impacting customer experience and merchant satisfaction.
-
-The objective of this project is to identify the root causes of transaction failures, analyze transaction behavior, and recommend actionable strategies to improve payment success rates.
+A digital payments company wants to understand transaction behavior, identify performance trends, analyze transaction success rates, and uncover business insights that can improve customer experience and payment reliability.
 
 
 ## Key Objectives
