@@ -25,6 +25,17 @@ The objective of this project is to identify the root causes of transaction fail
 - Microsoft Excel
 
 
+## Dataset
+
+The project uses a realistic UPI Transaction Insights Dataset containing transaction timestamps, merchant categories, payment modes, transaction amounts, location types, and transaction success status.
+
+Dataset Size:
+- 500+ UPI Transactions
+- Multiple Merchant Categories
+- Multiple Payment Modes
+- Transaction Success Indicators
+
+
   # Key KPIs
 
 - Transaction Success Rate
