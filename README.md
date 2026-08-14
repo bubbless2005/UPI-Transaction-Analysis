@@ -61,3 +61,18 @@ images/ - Visualizations and screenshots
 - Enhance merchant satisfaction
 - Improve customer experience
 
+
+## Key Findings
+
+- QR payments accounted for a significant share of total transactions.
+- Groceries, Fuel, and Food & Dining were among the most active merchant categories.
+- Urban and Semi-Urban regions demonstrated higher transaction activity.
+- Transaction success patterns varied across payment modes and merchant segments.
+
+## Business Recommendations
+
+- Promote high-performing payment channels.
+- Improve transaction reliability in low-performing segments.
+- Design targeted engagement strategies for different customer groups.
+- Optimize merchant partnerships based on transaction volume and value.
+
